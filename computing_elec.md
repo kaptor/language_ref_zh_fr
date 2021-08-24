@@ -127,6 +127,8 @@ pôle|-|极点
 électronique numérique|-|数电
 électronique analogique|-|模电
 composant (m)|component|元件
+résistance|-|电阻
+condensateur|-|电容
 source de tension|-|电压源
 source de courant|-|电流源
 front montant|rising edge|上升沿
@@ -153,6 +155,7 @@ API|Automate Programmable Industriel|PLC
 boucle ouvert | - | 开环
 boucle fermée| - | 闭环
 temps de réponse|-|响应时间
+digramme de Bode|-|波特图
 
 ## 【管理词汇】
 
