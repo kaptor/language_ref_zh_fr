@@ -129,6 +129,8 @@ pôle|-|极点
 composant (m)|component|元件
 résistance|-|电阻
 condensateur|-|电容
+courant|current|电流
+tension|voltage|电压
 source de tension|-|电压源
 source de courant|-|电流源
 front montant|rising edge|上升沿
@@ -140,6 +142,7 @@ front montant|rising edge|上升沿
 proton (m)|-|质子
 neutron (m)|-|中子
 électron (m)|-|电子
+triphasé,e (a)|-|三相的
 longueur de ligne de fuite|creepage distance|爬电比距
 distance d'isolement dans l'air|clearance distance|电气间隙
 
