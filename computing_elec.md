@@ -137,6 +137,9 @@ front montant|rising edge|上升沿
 
 法|英|中
 -|-|-
+proton (m)|-|质子
+neutron (m)|-|中子
+électron (m)|-|电子
 longueur de ligne de fuite|creepage distance|爬电比距
 distance d'isolement dans l'air|clearance distance|电气间隙
 
